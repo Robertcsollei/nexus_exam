@@ -1,0 +1,11 @@
+So First the schamas should be ready
+Than I upload the content to the server -> ideally with some controllers in place to  have a complete overview of the behaviour
+e.g.: adding datetime to edit. Only showing is Edited if the value is not null *(THIS GOS TO FORNTEND)
+
+CONTROLLERS for handling data flow
+
+
+REACt for displaying data. Needed content:
+
+A - Music
+B - Gestures
