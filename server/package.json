@@ -5,7 +5,7 @@
   "main": "server.js",
   "scripts": {
     "test": "test",
-    "start": "nodemon --exec babel-node src/server.js"
+    "start": "node --exec src/server.js"
   },
   "type": "module",
   "author": "Robert Csöllei",
