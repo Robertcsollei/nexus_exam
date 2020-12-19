@@ -4,8 +4,7 @@
   "description": "Server script fot NeXus Core movie web application",
   "main": "server.js",
   "scripts": {
-    "test": "test",
-    "start": "node --exec src/server.js"
+    "start": "node src/server.js"
   },
   "type": "module",
   "author": "Robert Csöllei",
